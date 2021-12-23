@@ -78,13 +78,13 @@
                background-image: linear-gradient(rgba(4,9,30,0.7), rgba(4,9,30,0.7)), url(Media/1.jpg);
            }
            25%{
-               background-image: linear-gradient(rgba(4,9,30,0.7), rgba(4,9,30,0.7)), url(../Media/2.jpg);
+               background-image: linear-gradient(rgba(4,9,30,0.7), rgba(4,9,30,0.7)), url(../Media/1.jpg);
            }
            50%{
-               background-image: linear-gradient(rgba(4,9,30,0.7), rgba(4,9,30,0.7)), url(../Media/3.jpg);
+               background-image: linear-gradient(rgba(4,9,30,0.7), rgba(4,9,30,0.7)), url(../Media/1.jpg);
            }
            75%{
-               background-image: linear-gradient(rgba(4,9,30,0.7), rgba(4,9,30,0.7)), url(../Media/4.jpg);
+               background-image: linear-gradient(rgba(4,9,30,0.7), rgba(4,9,30,0.7)), url(../Media/1.jpg);
            }
        }
 
