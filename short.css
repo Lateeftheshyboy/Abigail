@@ -62,6 +62,10 @@
         font-size: 1.3rem;
     }
 
+    h3{
+        padding-top: 10px;
+    }
+
     .btn{
         border: 1px solid teal;
         border-radius: 18px;
